@@ -1,6 +1,6 @@
 ### Olá eu sou Igor Pinheiro Lima 👋
 
-<!--
+
 **IGOR30-DEV/IGOR30-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
